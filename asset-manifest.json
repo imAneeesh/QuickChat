@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QuickChat/static/css/main.464676a6.css",
+    "main.js": "/QuickChat/static/js/main.b905d2d5.js",
+    "static/js/787.8e143ae1.chunk.js": "/QuickChat/static/js/787.8e143ae1.chunk.js",
+    "index.html": "/QuickChat/index.html",
+    "main.464676a6.css.map": "/QuickChat/static/css/main.464676a6.css.map",
+    "main.b905d2d5.js.map": "/QuickChat/static/js/main.b905d2d5.js.map",
+    "787.8e143ae1.chunk.js.map": "/QuickChat/static/js/787.8e143ae1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.464676a6.css",
+    "static/js/main.b905d2d5.js"
+  ]
+}
